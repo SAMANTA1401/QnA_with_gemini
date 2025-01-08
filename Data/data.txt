@@ -1,0 +1,56 @@
+PyTorch Overview
+Open -Source Deep Learning Library : Developed by Meta AI (formerly Facebook AI 
+Research).•
+Python & Torch : Combines Python’s ease of use with the efficiency of the Torch scientific 
+computing framework, originally built with Lua. Torch was known for high -performance 
+tensor -based operations, especially on GPUs.•
+PyTorch Release Timeline
+PyTorch 0.1 (2017)
+Key Features :
+Introduced the dynamic computation graph , enabling more flexible model 
+architectures.○
+Seamless integration with other Python libraries (e.g., numpy , scipy ). ○•
+Impact :
+Gained popularity among researchers due to its intuitive, Pythonic interface and 
+flexibility.○
+Quickly featured in numerous research papers.○•
+PyTorch 1.0 (2018)
+Key Features :
+Bridged the gap between research and production environments. ○
+Introduced TorchScript for model serialization and optimization. ○
+Improved performance with Caffe2 integration . ○•
+Impact :
+Enabled smoother transitions of models from research to deployment.○•
+PyTorch 1.x Series
+Key Features :
+Support for distributed training . ○
+ONNX compatibility for interoperability with other frameworks.○
+Introduced quantization for model compression and efficiency. ○
+Expanded ecosystem with torchvision (CV), torchtext (NLP), and torchaudio (audio). ○•
+Impact :
+Increased adoption by the research community and industry.○
+Inspired community libraries like PyTorch Lightning and Hugging Face Transformers . ○
+Strengthened cloud support for easy deployment. ○•
+PyTorch 2.0
+Key Features :
+Significant performance improvements . ○
+Enhanced support for deployment and production -readiness. ○
+Optimized for modern hardware (TPUs, custom AI chips). ○•
+Impact :
+Improved speed and scalability for real -world applications. ○
+Better compatibility with a variety of deployment environments.○•The Journey of PyTorch
+12 November 2024 19:14
+   1. Introduction to PyTorch Page 1       1. Introduction to PyTorch Page 2    Tensor Computations1.
+GPU Acceleration2.
+Dynamic Computation Graph3.
+Automatic Differentiation4.
+Distributed Training5.
+Interoperability with other libraries6.Core Features
+12 November 2024 19:15
+   1. Introduction to PyTorch Page 3    PyTorch Vs TensorFlow
+12 November 2024 19:15
+   1. Introduction to PyTorch Page 4       1. Introduction to PyTorch Page 5    PyTorch Core Modules
+12 November 2024 19:16
+   1. Introduction to PyTorch Page 6       1. Introduction to PyTorch Page 7       1. Introduction to PyTorch Page 8    Who uses PyTorch
+12 November 2024 19:16
+   1. Introduction to PyTorch Page 9    
